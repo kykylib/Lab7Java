@@ -19,3 +19,23 @@ Y
 )src/main/java/liberman/ECommerceDemo.java,4\a\4a23b4b244e03c60775d76d817a17d28d542cc78
 Y
 )src/test/java/liberman/ECommerceTest.java,6\f\6f83a4be18bbd495a2fd2fd276b971700a27f175
+w
+G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8\6\863e0292fd7e9b3e74dafd6cc01f73ba76346482
+w
+G.idea/sonarlint/issuestore/7/3/737f6ede99a9234fd2db4f68f1b8199cc747565f,a\7\a739bbcd0f620daea2af872ee5ff3cdd596c6322
+w
+G.idea/sonarlint/issuestore/e/d/ed09f6e2065e79dbebeba3c78ef1ee384e6c1532,3\4\3442697eed41386b84132e85bc76fe23aa0ee605
+Å
+Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,2\c\2cabb939da04d3de3a200bf2b575690e1a16316d
+Å
+Q.idea/sonarlint/securityhotspotstore/7/3/737f6ede99a9234fd2db4f68f1b8199cc747565f,c\3\c3002877a9cf1352dac28a4ba07bcca2c9ee9b08
+Å
+Q.idea/sonarlint/securityhotspotstore/d/3/d373b9539066e8a628e9189d8f8e4e602c73cc9e,2\e\2ebbe31aa40aaca117ff48ab53ce2bdd4956a30b
+Å
+Q.idea/sonarlint/securityhotspotstore/2/6/263776efa5a0d88ae522cf6ef5bc58ad956da86e,8\8\8806bcec0701fa7b420a305aeca99d8efc051f45
+Å
+Q.idea/sonarlint/securityhotspotstore/e/d/ed09f6e2065e79dbebeba3c78ef1ee384e6c1532,8\6\866d375ddc9b7a2c85824a0a23ac491742711ea2
+Å
+Q.idea/sonarlint/securityhotspotstore/e/e/ee4ad2c749709bd017c6b3cce5087670046709d1,d\c\dcb8cab633c01528bbe4d042db6cf5550e143475
+9
+	Readme.md,0\c\0c1945d7443c2e154bd3e421c0d438bd4086d8c3
