@@ -1,6 +1,6 @@
 package liberman;
 
-public class Product {
+public class Product implements Comparable<Product>{
     private Integer id;
     private String name;
     private double price;
@@ -53,5 +53,15 @@ public class Product {
                 ", price=" + price +
                 ", stock=" + stock +
                 '}';
+    }
+
+    @Override
+    public int compareTo(Product o) {
+        double price1 = this.price;
+        double price2 = o.price;
+
+        if(price1 == price2) return 0;
+        else if(price1 > price2) return 1;
+        else return -1;
     }
 }

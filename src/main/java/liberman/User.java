@@ -1,11 +1,14 @@
 package liberman;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class User {
     private Integer id;
     private String userName;
+    private List<Order> orderHistory = new ArrayList<>();
 
     private Map<Product,Integer> cart = new HashMap<>();
 
@@ -42,6 +45,14 @@ public class User {
     }
     public void changeCount(Product product, Integer integer){
         cart.replace(product,integer);
+    }
+
+    public List<Order> getOrderHistory() {
+        return orderHistory;
+    }
+
+    public void addToOrderHistory(Order order) {
+        orderHistory.add(order);
     }
 
 
